@@ -1,2 +1,3 @@
 # x-Chatty
-Video and audio chat app
+Video and audio chat app with WebRTC 
+
